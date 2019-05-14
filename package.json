@@ -4,7 +4,7 @@
   "description": "In angular project check if html file contains text",
   "main": "./lib/index.js",
   "bin": {
-    "pizza": "./lib/index.js"
+    "i18n-translate-check": "./lib/index.js"
   },
   "scripts": {
     "start": "nodemon src/index.ts",
